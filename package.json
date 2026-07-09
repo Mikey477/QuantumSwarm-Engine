@@ -1,0 +1,21 @@
+{
+  "name": "quantum-swarm-engine",
+  "version": "1.0.0",
+  "description": "A high-performance, canvas-accelerated multi-thread particle vector physics sandbox",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve public",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "physics",
+    "particles",
+    "canvas",
+    "simulation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
